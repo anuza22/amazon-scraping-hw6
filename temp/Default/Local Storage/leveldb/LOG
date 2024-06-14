@@ -1,0 +1,20 @@
+2024/06/13-20:20:38.612 4 Reusing MANIFEST /home/anuza/Documents/nfactorialIncubator24/gold_apple_scraping/temp/Default/Local Storage/leveldb/MANIFEST-000001
+2024/06/13-20:20:38.615 4 Recovering log #10
+2024/06/13-20:20:38.616 4 Level-0 table #13: started
+2024/06/13-20:20:38.619 4 Level-0 table #13: 47280 bytes OK
+2024/06/13-20:20:38.623 4 Delete type=0 #10
+2024/06/13-20:22:39.467 4 Level-0 table #16: started
+2024/06/13-20:22:39.479 4 Level-0 table #16: 42066 bytes OK
+2024/06/13-20:22:39.496 4 Delete type=0 #14
+2024/06/13-20:23:39.467 5 Level-0 table #18: started
+2024/06/13-20:23:39.479 5 Level-0 table #18: 60555 bytes OK
+2024/06/13-20:23:39.484 5 Delete type=0 #15
+2024/06/13-20:23:39.485 5 Compacting 4@0 + 1@1 files
+2024/06/13-20:23:39.491 5 Generated table #19@0: 208 keys, 66707 bytes
+2024/06/13-20:23:39.491 5 Compacted 4@0 + 1@1 files => 66707 bytes
+2024/06/13-20:23:39.494 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/06/13-20:23:39.495 5 Delete type=2 #13
+2024/06/13-20:23:39.495 5 Delete type=2 #16
+2024/06/13-20:23:39.495 5 Delete type=2 #11
+2024/06/13-20:23:39.495 5 Delete type=2 #18
+2024/06/13-20:23:39.495 5 Delete type=2 #8
